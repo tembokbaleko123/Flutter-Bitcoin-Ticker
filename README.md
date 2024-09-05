@@ -1,3 +1,3 @@
-# bitcoin_2
+# bitcoin_ticker
 
 A new Flutter project.
